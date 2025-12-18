@@ -1,0 +1,34 @@
+AAKASH JANA AAJ284 11297343
+NANDISH JHA NAJ474 11282001
+
+
+
+commit c111118979d370e8a8a1a4337836ef9157139528
+Author: naj474 <naj474@usask.ca>
+Date:   Wed Nov 26 11:15:12 2025 -0600
+
+    Added output file
+
+commit 7d29b6b1bb8cf688ff6d15d5283421661dcf3f90
+Author: naj474 <naj474@usask.ca>
+Date:   Wed Nov 26 10:52:06 2025 -0600
+
+    Completed the follow symlink function instead of the old stub
+
+commit 9ba2b68f442812cc3b0a4a3fc95c5c7bd69aaa6f
+Author: naj474 <naj474@usask.ca>
+Date:   Wed Nov 26 10:13:56 2025 -0600
+
+    Basic system call linkage set up, coded until a stub helper function
+
+commit 7adfe61a38e8c4c11caef647b000bfddde40d4cc
+Author: naj474 <naj474@usask.ca>
+Date:   Tue Nov 25 16:54:14 2025 -0600
+
+    Code base and given files set up and ready to use
+
+commit 7036c3681839ad18ba534cd81122f261c37136ef
+Author: naj474 <naj474@usask.ca>
+Date:   Tue Nov 25 16:52:38 2025 -0600
+
+    Initial commit
